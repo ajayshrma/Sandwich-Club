@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="listBackground">#FFFDE7</color>
+
+    <color name="labelColor">#000000</color>
+    <color name="labelBackground">#EC1414</color>
+    <color name="Ratigcolor">#FFEC1414</color>
+</resources>
